@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Batsa:12345@cluster0.2a1at.mongodb.net/quizDB?retryWrites=true&w=majority",
+    "jwtSecret":"mySecretToken"
+}
