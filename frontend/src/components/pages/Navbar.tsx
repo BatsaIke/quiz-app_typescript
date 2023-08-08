@@ -13,7 +13,7 @@ const Navbar: React.FC<NavbarProps> = ({ isLoggedIn, handleLogout }) => {
       return (
         <>
          <li>
-            <h3>Typescript Quiz app</h3>
+            <h3 style={{color:"#ffffff"}}>Typescript Quiz app</h3>
           </li>
           <li>
             <Link to="/quiz">Home</Link>
